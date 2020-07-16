@@ -5,3 +5,6 @@
 
 - [1.简单了解Vue的源码](docs/1.md)
 - [2.寻找Vue的入口](docs/2.md)
+- [3.从入口开始，摸清Vue的整体轮廓](docs/3.md)
+- [4.当我们引入Vue时，Vue都做了些什么](docs/4.md)
+- [5.当我们new Vue时，Vue都做了什么](docs/5.md)
